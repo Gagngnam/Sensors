@@ -1,0 +1,2 @@
+# Sensors
+Ideas about sensoring.
